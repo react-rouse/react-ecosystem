@@ -1,4 +1,4 @@
-#react 相关
+# react 相关
 
 ### 脚手架
  1. [create-react-app](https://github.com/facebook/create-react-app)
@@ -7,7 +7,7 @@
  1. [react16](https://github.com/facebook/react)
  
 ### 路由
- 1. [React Router4](https://github.com/ReactTraining/react-router)
+ 1. [React Router5](https://github.com/ReactTraining/react-router)
 
 ### 异步IO  
  1. [axios](https://github.com/axios/axios)
@@ -19,8 +19,9 @@
  2. [react-redux](https://react-redux.js.org/) 
  3. [flux](https://facebook.github.io/flux/)
  4. [mobx](https://mobx.js.org/)
+ 5. [rematch](https://github.com/rematch/rematch)
 
-### 中间件
+### 相关库
  1. [redux-persist](https://github.com/rt2zz/redux-persist) 【redux数据持久化】
  2. [react-router-redux](https://github.com/reactjs/react-router-redux)  【保持路由和状态同步】 
  3. [react-router-dom5](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom) 【react-router的一部分】
@@ -28,6 +29,12 @@
  5. [react-transition-group](https://github.com/reactjs/react-transition-group)【动画过渡】
  6. [styled-components](https://www.styled-components.com/)【 css in js 类库】
  7. [events](https://github.com/Gozala/events) 【组件之间通信】
+ 8. [preact](https://github.com/developit/preact) 【轻量级 React 实现】
+ 9. [react-loadable](https://github.com/jamiebuilds/react-loadable) 【按需加载 react 组件】
+ 10.[reach-router](https://github.com/reach/router) 【React 路由方案，较新，优势是可访问性】
+ 11.[react-intl](https://github.com/yahoo/react-intl) 【React 的国际化方案】
+ 12.[react-dnd](https://github.com/react-dnd/react-dnd) 【拖拽实现】
+ 13.[react-helmet](https://github.com/nfl/react-helmet) 【修改 html 的 header 内容】
 
 ### 处理异步流
  1. [redux-thunk](https://github.com/reduxjs/redux-thunk)
@@ -45,8 +52,10 @@
 	
 框架
  1. [dva](https://dvajs.com/) 
- 2. [UmiJS](https://umijs.org/zh/guide/)
-
+ 2. [UmiJS](https://umijs.org/zh/guide/) 
+ 
+### 小程序
+ 1. [taro](https://github.com/NervJS/taro)
 ### 移动端 
  1. [react native](https://reactnative.cn/)
 ### 服务器端渲染
