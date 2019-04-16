@@ -31,10 +31,10 @@
  7. [events](https://github.com/Gozala/events) 【组件之间通信】
  8. [preact](https://github.com/developit/preact) 【轻量级 React 实现】
  9. [react-loadable](https://github.com/jamiebuilds/react-loadable) 【按需加载 react 组件】
- 10.[reach-router](https://github.com/reach/router) 【React 路由方案，较新，优势是可访问性】
- 11.[react-intl](https://github.com/yahoo/react-intl) 【React 的国际化方案】
- 12.[react-dnd](https://github.com/react-dnd/react-dnd) 【拖拽实现】
- 13.[react-helmet](https://github.com/nfl/react-helmet) 【修改 html 的 header 内容】
+ 10. [reach-router](https://github.com/reach/router) 【React 路由方案，较新，优势是可访问性】
+ 11. [react-intl](https://github.com/yahoo/react-intl) 【React 的国际化方案】
+ 12. [react-dnd](https://github.com/react-dnd/react-dnd) 【拖拽实现】
+ 13. [react-helmet](https://github.com/nfl/react-helmet) 【修改 html 的 header 内容】
 
 ### 处理异步流
  1. [redux-thunk](https://github.com/reduxjs/redux-thunk)
